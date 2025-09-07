@@ -1,4 +1,7 @@
 # Weather-app
+
+Name: Ayush Tiwari | Roll no. 21MI31010 | Documentation of 'Weather app' Project for CDC verification
+
 Documentation: Weather App
 Objective
 - To develop a browser-based weather application providing real-time weather updates for any location.
